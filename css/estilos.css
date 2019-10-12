@@ -6,7 +6,7 @@ body {
 .contenedor {
 	margin: 0 auto;
 	width: 70%;
-	background: black;
+	background: white;
 	border: 2px solid red;
 	text-align: center;
 }
@@ -25,5 +25,5 @@ body {
 
 .contenedor p {
 	font-size: 1em;
-	color:red;
+	color:orange;
 }
