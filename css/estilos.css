@@ -6,7 +6,7 @@ body {
 .contenedor {
 	margin: 0 auto;
 	width: 70%;
-	background: silver;
+	background: black;
 	border: 2px solid red;
 	text-align: center;
 }
