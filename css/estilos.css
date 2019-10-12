@@ -1,14 +1,21 @@
 body {
-	background: silver;
+	background: white;
 	font-family: "Arial";
 }
 
 .contenedor {
 	margin: 0 auto;
 	width: 70%;
-	background: gray;
+	background: silver;
 	border: 2px solid red;
 	text-align: center;
+}
+
+.contenedor .cabecera {
+	background: blue;
+	color: white;
+	padding: 10px;
+	font-weight: bold;
 }
 
 .contenedor h1 {
